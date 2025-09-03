@@ -1,4 +1,7 @@
 ## https://copilot.microsoft.com/shares/kETii6YGcvnHPQq2RkJey
+## https://copilot.microsoft.com/shares/itS2VB1tRUsmkboJhziXf
+
+## direct link: https://copilot.microsoft.com/chats/odPjaxpD646hviNfi4kV4
 
 # Полный пошаговый гайд с кодом и примерами запуска
 Ниже описан полный набор файлов, их назначение, содержимое и команды для запуска. Цель конвейера:

@@ -1,0 +1,485 @@
+{
+  "424d_0_1385.bin": {
+    "wave": 0,
+    "offset": 0,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_1536_1060.bin": {
+    "wave": 0,
+    "offset": 1536,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_2048_3397.bin": {
+    "wave": 0,
+    "offset": 2048,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_2688_8214.bin": {
+    "wave": 0,
+    "offset": 2688,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_4096_3335.bin": {
+    "wave": 0,
+    "offset": 4096,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6144_9558.bin": {
+    "wave": 0,
+    "offset": 6144,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6784_389.bin": {
+    "wave": 0,
+    "offset": 6784,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6784_5525.bin": {
+    "wave": 0,
+    "offset": 6784,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6912_8512.bin": {
+    "wave": 0,
+    "offset": 6912,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7296_444.bin": {
+    "wave": 0,
+    "offset": 7296,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_768_9619.bin": {
+    "wave": 0,
+    "offset": 768,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "494433_7552_468.bin": {
+    "wave": 0,
+    "offset": 7552,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_1664_6804.bin": {
+    "wave": 1,
+    "offset": 1664,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_4608_5244.bin": {
+    "wave": 1,
+    "offset": 4608,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_4864_1944.bin": {
+    "wave": 1,
+    "offset": 4864,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6016_8247.bin": {
+    "wave": 1,
+    "offset": 6016,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6656_3331.bin": {
+    "wave": 1,
+    "offset": 6656,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_1036.bin": {
+    "wave": 1,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_2659.bin": {
+    "wave": 1,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_3904.bin": {
+    "wave": 1,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_5303.bin": {
+    "wave": 1,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_5917.bin": {
+    "wave": 1,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_5998.bin": {
+    "wave": 1,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_6464.bin": {
+    "wave": 1,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_7567.bin": {
+    "wave": 1,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_8064_6106.bin": {
+    "wave": 1,
+    "offset": 8064,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_2560_2487.bin": {
+    "wave": 2,
+    "offset": 2560,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_2688_3352.bin": {
+    "wave": 2,
+    "offset": 2688,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_2688_6230.bin": {
+    "wave": 2,
+    "offset": 2688,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_4864_9170.bin": {
+    "wave": 2,
+    "offset": 4864,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_5120_2243.bin": {
+    "wave": 2,
+    "offset": 5120,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_5376_9323.bin": {
+    "wave": 2,
+    "offset": 5376,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_5632_5233.bin": {
+    "wave": 2,
+    "offset": 5632,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_5888_83.bin": {
+    "wave": 2,
+    "offset": 5888,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6144_1236.bin": {
+    "wave": 2,
+    "offset": 6144,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6784_1054.bin": {
+    "wave": 2,
+    "offset": 6784,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_1831.bin": {
+    "wave": 2,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_2231.bin": {
+    "wave": 2,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_3584.bin": {
+    "wave": 2,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_7706.bin": {
+    "wave": 2,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_8017.bin": {
+    "wave": 2,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7040_8994.bin": {
+    "wave": 2,
+    "offset": 7040,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7424_5429.bin": {
+    "wave": 2,
+    "offset": 7424,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7424_8773.bin": {
+    "wave": 2,
+    "offset": 7424,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_768_2695.bin": {
+    "wave": 2,
+    "offset": 768,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_768_5152.bin": {
+    "wave": 2,
+    "offset": 768,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7936_4813.bin": {
+    "wave": 2,
+    "offset": 7936,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "ffd8ff_2816_6579.bin": {
+    "wave": 2,
+    "offset": 2816,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "ffd8ff_4224_7709.bin": {
+    "wave": 2,
+    "offset": 4224,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_2816_4441.bin": {
+    "wave": 3,
+    "offset": 2816,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_3840_4558.bin": {
+    "wave": 3,
+    "offset": 3840,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_3840_544.bin": {
+    "wave": 3,
+    "offset": 3840,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_3840_5839.bin": {
+    "wave": 3,
+    "offset": 3840,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_4352_8835.bin": {
+    "wave": 3,
+    "offset": 4352,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_4352_8852.bin": {
+    "wave": 3,
+    "offset": 4352,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_4608_7280.bin": {
+    "wave": 3,
+    "offset": 4608,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6144_2240.bin": {
+    "wave": 3,
+    "offset": 6144,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6144_3008.bin": {
+    "wave": 3,
+    "offset": 6144,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6144_7053.bin": {
+    "wave": 3,
+    "offset": 6144,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_6144_9996.bin": {
+    "wave": 3,
+    "offset": 6144,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7168_142.bin": {
+    "wave": 3,
+    "offset": 7168,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7168_8642.bin": {
+    "wave": 3,
+    "offset": 7168,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_7296_4975.bin": {
+    "wave": 3,
+    "offset": 7296,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "424d_768_4564.bin": {
+    "wave": 3,
+    "offset": 768,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "425a68_2560_3274.bin": {
+    "wave": 3,
+    "offset": 2560,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "425a68_2560_3873.bin": {
+    "wave": 3,
+    "offset": 2560,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "425a68_6144_839.bin": {
+    "wave": 3,
+    "offset": 6144,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "494433_2816_1076.bin": {
+    "wave": 3,
+    "offset": 2816,
+    "transform_chain": [
+      "identity"
+    ]
+  },
+  "ffd8ff_2048_915.bin": {
+    "wave": 3,
+    "offset": 2048,
+    "transform_chain": [
+      "identity"
+    ]
+  }
+}

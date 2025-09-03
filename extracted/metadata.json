@@ -1,0 +1,1652 @@
+{
+  "w0_p0_0_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 0,
+    "pulse_index": 0,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p0_0_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 0,
+    "pulse_index": 0,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p0_0_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 0,
+    "pulse_index": 0,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p1_8_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 8,
+    "pulse_index": 1,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p1_8_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 8,
+    "pulse_index": 1,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p1_8_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 8,
+    "pulse_index": 1,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p2_16_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 16,
+    "pulse_index": 2,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p2_16_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 16,
+    "pulse_index": 2,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p2_16_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 16,
+    "pulse_index": 2,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p3_24_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 24,
+    "pulse_index": 3,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p3_24_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 24,
+    "pulse_index": 3,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p3_24_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 24,
+    "pulse_index": 3,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p4_32_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 32,
+    "pulse_index": 4,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p4_32_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 32,
+    "pulse_index": 4,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p4_32_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 32,
+    "pulse_index": 4,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p5_40_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 40,
+    "pulse_index": 5,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p5_40_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 40,
+    "pulse_index": 5,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p5_40_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 40,
+    "pulse_index": 5,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p6_48_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 48,
+    "pulse_index": 6,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p6_48_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 48,
+    "pulse_index": 6,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p6_48_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 48,
+    "pulse_index": 6,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p7_56_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 56,
+    "pulse_index": 7,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p7_56_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 56,
+    "pulse_index": 7,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p7_56_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 56,
+    "pulse_index": 7,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p8_64_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 64,
+    "pulse_index": 8,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p8_64_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 64,
+    "pulse_index": 8,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p8_64_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 64,
+    "pulse_index": 8,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p9_72_identity.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 72,
+    "pulse_index": 9,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w0_p9_72_invert.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 72,
+    "pulse_index": 9,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w0_p9_72_xor.bin": {
+    "wave": 0,
+    "seed": "6f4c3aec815f",
+    "offset": 72,
+    "pulse_index": 9,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p0_128_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 128,
+    "pulse_index": 0,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p0_128_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 128,
+    "pulse_index": 0,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p0_128_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 128,
+    "pulse_index": 0,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p1_136_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 136,
+    "pulse_index": 1,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p1_136_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 136,
+    "pulse_index": 1,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p1_136_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 136,
+    "pulse_index": 1,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p2_144_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 144,
+    "pulse_index": 2,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p2_144_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 144,
+    "pulse_index": 2,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p2_144_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 144,
+    "pulse_index": 2,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p3_152_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 152,
+    "pulse_index": 3,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p3_152_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 152,
+    "pulse_index": 3,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p3_152_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 152,
+    "pulse_index": 3,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p4_160_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 160,
+    "pulse_index": 4,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p4_160_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 160,
+    "pulse_index": 4,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p4_160_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 160,
+    "pulse_index": 4,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p5_168_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 168,
+    "pulse_index": 5,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p5_168_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 168,
+    "pulse_index": 5,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p5_168_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 168,
+    "pulse_index": 5,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p6_176_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 176,
+    "pulse_index": 6,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p6_176_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 176,
+    "pulse_index": 6,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p6_176_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 176,
+    "pulse_index": 6,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p7_184_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 184,
+    "pulse_index": 7,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p7_184_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 184,
+    "pulse_index": 7,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p7_184_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 184,
+    "pulse_index": 7,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p8_192_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 192,
+    "pulse_index": 8,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p8_192_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 192,
+    "pulse_index": 8,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p8_192_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 192,
+    "pulse_index": 8,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p9_200_identity.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 200,
+    "pulse_index": 9,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w1_p9_200_invert.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 200,
+    "pulse_index": 9,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w1_p9_200_xor.bin": {
+    "wave": 1,
+    "seed": "7dd4220b4cce",
+    "offset": 200,
+    "pulse_index": 9,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p0_256_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 256,
+    "pulse_index": 0,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p0_256_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 256,
+    "pulse_index": 0,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p0_256_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 256,
+    "pulse_index": 0,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p1_264_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 264,
+    "pulse_index": 1,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p1_264_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 264,
+    "pulse_index": 1,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p1_264_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 264,
+    "pulse_index": 1,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p2_272_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 272,
+    "pulse_index": 2,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p2_272_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 272,
+    "pulse_index": 2,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p2_272_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 272,
+    "pulse_index": 2,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p3_280_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 280,
+    "pulse_index": 3,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p3_280_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 280,
+    "pulse_index": 3,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p3_280_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 280,
+    "pulse_index": 3,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p4_288_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 288,
+    "pulse_index": 4,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p4_288_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 288,
+    "pulse_index": 4,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p4_288_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 288,
+    "pulse_index": 4,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p5_296_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 296,
+    "pulse_index": 5,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p5_296_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 296,
+    "pulse_index": 5,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p5_296_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 296,
+    "pulse_index": 5,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p6_304_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 304,
+    "pulse_index": 6,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p6_304_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 304,
+    "pulse_index": 6,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p6_304_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 304,
+    "pulse_index": 6,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p7_312_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 312,
+    "pulse_index": 7,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p7_312_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 312,
+    "pulse_index": 7,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p7_312_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 312,
+    "pulse_index": 7,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p8_320_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 320,
+    "pulse_index": 8,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p8_320_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 320,
+    "pulse_index": 8,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p8_320_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 320,
+    "pulse_index": 8,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p9_328_identity.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 328,
+    "pulse_index": 9,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w2_p9_328_invert.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 328,
+    "pulse_index": 9,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w2_p9_328_xor.bin": {
+    "wave": 2,
+    "seed": "aa49c2192ede",
+    "offset": 328,
+    "pulse_index": 9,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p0_384_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 384,
+    "pulse_index": 0,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p0_384_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 384,
+    "pulse_index": 0,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p0_384_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 384,
+    "pulse_index": 0,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p1_392_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 392,
+    "pulse_index": 1,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p1_392_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 392,
+    "pulse_index": 1,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p1_392_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 392,
+    "pulse_index": 1,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p2_400_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 400,
+    "pulse_index": 2,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p2_400_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 400,
+    "pulse_index": 2,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p2_400_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 400,
+    "pulse_index": 2,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p3_408_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 408,
+    "pulse_index": 3,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p3_408_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 408,
+    "pulse_index": 3,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p3_408_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 408,
+    "pulse_index": 3,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p4_416_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 416,
+    "pulse_index": 4,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p4_416_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 416,
+    "pulse_index": 4,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p4_416_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 416,
+    "pulse_index": 4,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p5_424_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 424,
+    "pulse_index": 5,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p5_424_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 424,
+    "pulse_index": 5,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p5_424_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 424,
+    "pulse_index": 5,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p6_432_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 432,
+    "pulse_index": 6,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p6_432_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 432,
+    "pulse_index": 6,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p6_432_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 432,
+    "pulse_index": 6,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p7_440_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 440,
+    "pulse_index": 7,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p7_440_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 440,
+    "pulse_index": 7,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p7_440_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 440,
+    "pulse_index": 7,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p8_448_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 448,
+    "pulse_index": 8,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p8_448_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 448,
+    "pulse_index": 8,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p8_448_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 448,
+    "pulse_index": 8,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p9_456_identity.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 456,
+    "pulse_index": 9,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w3_p9_456_invert.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 456,
+    "pulse_index": 9,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w3_p9_456_xor.bin": {
+    "wave": 3,
+    "seed": "0e43832cd85d",
+    "offset": 456,
+    "pulse_index": 9,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p0_512_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 512,
+    "pulse_index": 0,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p0_512_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 512,
+    "pulse_index": 0,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p0_512_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 512,
+    "pulse_index": 0,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p1_520_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 520,
+    "pulse_index": 1,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p1_520_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 520,
+    "pulse_index": 1,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p1_520_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 520,
+    "pulse_index": 1,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p2_528_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 528,
+    "pulse_index": 2,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p2_528_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 528,
+    "pulse_index": 2,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p2_528_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 528,
+    "pulse_index": 2,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p3_536_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 536,
+    "pulse_index": 3,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p3_536_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 536,
+    "pulse_index": 3,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p3_536_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 536,
+    "pulse_index": 3,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p4_544_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 544,
+    "pulse_index": 4,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p4_544_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 544,
+    "pulse_index": 4,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p4_544_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 544,
+    "pulse_index": 4,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p5_552_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 552,
+    "pulse_index": 5,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p5_552_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 552,
+    "pulse_index": 5,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p5_552_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 552,
+    "pulse_index": 5,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p6_560_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 560,
+    "pulse_index": 6,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p6_560_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 560,
+    "pulse_index": 6,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p6_560_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 560,
+    "pulse_index": 6,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p7_568_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 568,
+    "pulse_index": 7,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p7_568_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 568,
+    "pulse_index": 7,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p7_568_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 568,
+    "pulse_index": 7,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p8_576_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 576,
+    "pulse_index": 8,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p8_576_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 576,
+    "pulse_index": 8,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p8_576_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 576,
+    "pulse_index": 8,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p9_584_identity.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 584,
+    "pulse_index": 9,
+    "transform_chain": [
+      "identity"
+    ],
+    "hamming_distance": 0,
+    "detection_score": 1.0
+  },
+  "w4_p9_584_invert.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 584,
+    "pulse_index": 9,
+    "transform_chain": [
+      "invert"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  },
+  "w4_p9_584_xor.bin": {
+    "wave": 4,
+    "seed": "9d975149893f",
+    "offset": 584,
+    "pulse_index": 9,
+    "transform_chain": [
+      "xor"
+    ],
+    "hamming_distance": 128,
+    "detection_score": 0.0
+  }
+}

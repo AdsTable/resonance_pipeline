@@ -1,0 +1,44 @@
+# Шаг 1: путь к raw-файлу (сгенерированному из массива)
+raw_file: "field.raw"
+
+# Где лежат .bin-файлы и метаданные
+fragments_dir: "extracted"
+metadata_file: "extracted/metadata.json"
+
+# Общие настройки
+output_dir: "pipeline_output"
+jobs: 8
+
+# Названия подпапок/файлов в output_dir
+plot_dir: "plots"
+batch_results: "batch.json"
+cluster_csv: "clusters.csv"
+graph_image: "graph.png"
+graphml: "resonance.graphml"
+
+# Атрибуты узлов и рёбер для GraphML
+node_attrs:
+  - size
+  - entropy
+  - wave
+  - offset
+  - pulse_index
+
+edge_attrs:
+  - hamming_distance
+  - transform_chain
+  - detection_score
+
+# Раскраска ребер
+color_by: "detection_score"
+
+# Оси для графиков seaborn
+x_col: "wave"
+y_col: "size"
+hue_col: "entropy"
+
+# «Нелогичные» дополнения
+connect_clusters: false
+fallback_random_seeds_count: 0
+add_cycle: false
+echo_enabled: false
